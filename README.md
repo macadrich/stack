@@ -1,0 +1,2 @@
+# stack
+Custom stack algorithm
