@@ -2,7 +2,7 @@ package stack
 
 type Obj interface{}
 type Stack []Obj
-
+// NewStack -
 func NewStack() Stack {
 	return Stack{}
 }
